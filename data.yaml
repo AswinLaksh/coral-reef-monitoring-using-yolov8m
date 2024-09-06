@@ -1,0 +1,6 @@
+train: C:\VScode\corals_idp\train
+val: C:\VScode\corals_idp\valid
+
+nc: 2
+names: ['bleached coral', 'healthy coral']
+
